@@ -14,8 +14,13 @@
 
 ```python -m unittest tests.test_login```
 
-3. Запуск теста основного функционала
+2. Запуск теста основного функционала
 
 ```python -m unittest tests.test_smoke```
+
+3. Запуск всех тестов
+   
+```python -m unittest discover```
+   
 
 
